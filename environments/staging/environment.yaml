@@ -3,6 +3,8 @@ app:
   instances:
     min: 1
     max: 2
+  # configure endpoints
+  endpoints: public
   version: 2e7a0178-77ee-42ee-9e73-a4a574215217
   env:
     - name: JVM_ARGS
