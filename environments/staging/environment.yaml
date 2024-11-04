@@ -2,7 +2,7 @@ version: 1.0
 app:
   instances:
     min: 1
-    max: 2
+    max: 1
   # configure endpoints
   endpoints: public
   version: b887f8b4-7ec9-4b6b-af64-34546f1fe60c
